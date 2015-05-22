@@ -1,1 +1,6 @@
-this is second file
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    Staging area contains the file which gors into commit.
+    Working directory has all the files.
+    Repository contains only committed files.
